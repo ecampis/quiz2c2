@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_noticias"
+        android:title="Noticias"
+        android:icon="@android:drawable/btn_star_big_on"/>
+    <item
+        android:id="@+id/nav_perfil"
+        android:title="Perfil"
+        android:icon="@android:drawable/ic_menu_share"/>
+    <item
+        android:id="@+id/nav_ajustes"
+        android:title="Ajustes"
+        android:icon="@android:drawable/ic_menu_preferences"/>
+</menu>
